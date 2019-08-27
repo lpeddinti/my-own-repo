@@ -1,3 +1,0 @@
-Need to learn
-SDN and NFV
-scalling scenarios 
