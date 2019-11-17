@@ -1,3 +1,9 @@
 Need to learn
 SDN and NFV
 scalling scenarios 
+
+Terraform  - provide infrastructure as code
+ansible - configuration management tool
+
+Deliver infrastructure as code with Terraform
+
